@@ -39,7 +39,8 @@ Följande endpoints ska finnas med:
 * backend följer en MVC-arkitektur (eller motsv.)
 * Lägg till en endpoint: <br>
 **GET /movies/ratings:** Hämta en lista med alla filmer och deras genomsnittliga betyg.
-* använd olika roller: **user** och **admin**. Alla kan hämta filmer samt läsa/skriva rescensioner men endast **admin** kan lägga till, uppdatera eller ta bort filmer.
+* Använd JWT för autentisering och implementera roller: **user** och **admin**. Alla kan hämta filmer samt läsa/skriva rescensioner men endast **admin** kan lägga till, uppdatera eller ta bort filmer.
+* Exempelanrop bifogas (Postman).
 
 ## Handledning
 
