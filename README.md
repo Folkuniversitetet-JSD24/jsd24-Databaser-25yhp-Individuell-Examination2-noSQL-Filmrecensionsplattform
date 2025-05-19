@@ -53,4 +53,4 @@ Använder ni .env och har lagt till denna i .gitignore, se till att ha en .env.e
 [dokumentation för att importera/exportera data till postman](https://learning.postman.com/docs/getting-started/importing-and-exporting/importing-and-exporting-overview/#importing-data-into-postman)****
 
 ### Redovisning
-Sker genom att 5 random elever redovisar under lektions tid den 04/6, (så alla måste förbereda) alla andra: inspelad redovisning och lämnas in senast 06/6 kl 22:59 till läraren. MAX 15 min redovisning/inspelning.
+Sker genom att alla spelar in presentation/redovisning och lämnas in senast 06/6 kl 22:59 till läraren. MAX 15 min redovisning/inspelning.
