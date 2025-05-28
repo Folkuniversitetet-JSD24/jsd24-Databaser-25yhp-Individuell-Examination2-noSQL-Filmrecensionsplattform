@@ -34,6 +34,7 @@ Följande endpoints ska finnas med:
 **För Godkänt:**
 * Uppfyller all funktionalitet enligt ovan
 * bifoga exempelanrop (använd till exempel: Postman) till alla endpoints (se länk under inlämning)
+* Visa att datan läggs in i Mongodb DB
 
 **För Väl Godkänt:**
 * backend följer en MVC-arkitektur (eller motsv.)
