@@ -20,6 +20,7 @@ Följande endpoints ska finnas med:
 * **PUT /movies/:id:** Uppdatera en specifik film.
 * **GET /movies/:id/reviews:** Hämta alla recensioner för en specifik film.
 * **DELETE /movies/:id:** Ta bort en specifik film.
+
 * **POST /reviews:** Lägg till en ny recension.
 * **GET /reviews:** Hämta en lista med alla recensioner.
 * **GET /reviews/:id:** Hämta detaljer för en specifik recension.
